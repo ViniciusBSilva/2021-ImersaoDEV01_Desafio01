@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+}
+
+.container {
+    text-align: center;
+}
+
+.page-title {
+  color: white;
+  margin: 0 0 5px;
+}
+
+.content {
+  background-color: gray;
+}
